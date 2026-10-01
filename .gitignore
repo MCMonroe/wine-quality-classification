@@ -1,0 +1,16 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# Quarto / knitr intermediates
+.quarto/
+report/report.typ
+report/report_files/
+report/*_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,17 @@
+"wine","parameter","value"
+"red","k (KNN, raw)",1
+"red","k (KNN, standardized)",1
+"red","unpruned tree leaves",18
+"red","pruned tree leaves",7
+"red","SVM cost (2 predictors)",0.1
+"red","SVM cost (all predictors)",10
+"red","SVM support vectors (2 predictors)",353
+"red","SVM support vectors (all predictors)",334
+"white","k (KNN, raw)",1
+"white","k (KNN, standardized)",1
+"white","unpruned tree leaves",5
+"white","pruned tree leaves",3
+"white","SVM cost (2 predictors)",1
+"white","SVM cost (all predictors)",2
+"white","SVM support vectors (2 predictors)",1489
+"white","SVM support vectors (all predictors)",1461
